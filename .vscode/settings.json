@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "off",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "editor.mouseWheelZoom": true,
+  "editor.autoIndentOnPaste": true,
+  "editor.definitionLinkOpensInPeek": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}
